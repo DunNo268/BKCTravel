@@ -1,0 +1,114 @@
+.g-recaptcha {
+    float: right;
+    margin-top: 5px;
+}
+.imgpoint{
+    display: inline-block;
+    max-width: 25px;
+    max-height: 25px;
+    width: auto;
+    height: auto;
+}
+.bl_fee{
+        display: inline-block;
+        margin-top: 10px; width: 100%;
+}
+.mg_top5{
+    margin-top:5px;
+}
+.fo_fee a{
+    color: #fff;
+}
+.fo_fee {
+    background: #0095da;
+    color: #fff;
+    width: 100%;
+    float: left;
+    margin-top: 15px;
+    padding: 15px;
+}
+.tit_fee {
+    background: #0095da;
+    color: #fff;
+    text-align: center;
+    padding: 8px;
+   
+}
+.tit_fee h1{
+    display: inline;  font-family: 'Open Sans Condensed',sans-serif;
+    font-weight: bold;
+}
+.waning_free {
+    background: #DDE9F6;
+    color: #333;        
+    padding: 8px;        
+    font-size: 11pt;
+    box-shadow: 5px 5px 0px #cccccc;
+    margin-top: 10px; margin-bottom: 10px;
+}
+span.num_free_tit {
+    width: 23px;
+    height: 23px;
+    background: #fff;
+    float: left;
+    border-radius: 12px;
+    padding-left: 10px;
+    padding-top: 2px;
+    font-weight: bold;
+    color: #000;
+    font-family: serif;
+}
+span.num_free_tit2 {
+    width: 23px;
+    height: 23px;
+    background: #fff;
+    float: left;
+    border-radius: 12px;
+    padding-left: 6px;
+    padding-top: 2px;
+    font-weight: bold;
+    color: #000;
+    font-family: serif;
+}
+span.num_free_tit3 {
+    width: 23px;
+    height: 23px;
+    background: #fff;
+    float: left;
+    border-radius: 12px;
+    padding-left: 4px;
+    padding-top: 2px;
+    font-weight: bold;
+    color: #000;
+    font-family: serif;
+}
+div#num_free_tit {
+    background: #0095da;
+    padding: 5px;
+    color: #fff;
+    width: 100%;
+    float: left;
+}
+div#num_free_tit_2 {
+    background: #DDE9F6;
+    width: 100%;
+    float: left;
+    padding: 5px;
+}
+.bl_check {
+    width: 100%;
+    float: left;
+   border-bottom:2px solid #f5f5f5;
+}
+.bg-info {
+    background-color: #d9edf7;
+    padding:5px;
+}
+.bg-success {
+    background: #d0edfb;
+    padding: 5px;
+}
+#Feedback .error{
+    border: solid 1px red !important;
+    background-color: #fffade !important;
+}
